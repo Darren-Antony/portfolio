@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+.top-border {
+    width: 528px;
+    height: 14px;
+    background-color: aliceblue;
+}
+.port-cont{
+    
+    margin-top: 19px;
+     
+}
+iframe {
+    width: 525px;
+    height: 328px;
+} 
+
